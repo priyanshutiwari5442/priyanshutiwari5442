@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshutiwari5442&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshutiwari5442" /> </p>
 
-- 🌱 I’m currently learning **PYTHON, DATA SCIENCE**
+- 🌱 I have skills like **PYTHON (NumPy,Pandas,Matplotlib,Seaborn),SQL,POWER BI/Tableau**
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I think that i am hard working**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
