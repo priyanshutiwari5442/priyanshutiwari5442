@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshutiwari5442&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshutiwari5442" /> </p>
 
-- 🌱 I’m currently learning **PYTHON, DATA SCIENCE**
+- 🌱 I’m currently learning **Machine Learning, DATA SCIENCE**
 
-- ⚡ Fun fact **I think I'm hard working**
+- ⚡ Fun fact **I think that i'm moody**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
